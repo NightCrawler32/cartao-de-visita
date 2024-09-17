@@ -1,0 +1,32 @@
+header {
+    background-color: bisque;
+    color: blueviolet;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+nav {
+    border-radius: 8%;
+    background: linear-gradient(rgb(11, 94, 178), rgb(45, 45, 110)); 
+    color: rgb(238, 238, 238);
+}
+
+footer{
+
+    border-radius: 29%;
+background-color: rgb(125, 29, 222);
+color: aliceblue;
+
+}
+img{
+    border-radius: 60%;
+}
+h2{
+    margin: 2%;
+}
+
+h1{
+    margin: 2%;
+}
